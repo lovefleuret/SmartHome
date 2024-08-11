@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "smartHome",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "smartHome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smartHome-33109c5951fe00940fd1.json",
+					"name" : "smartHome",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/fleuret/Desktop/workspace/\u667a\u80fd\u5bb6\u5c45(\u590d\u7528\u6a21\u578b)/smart-home---reuse-model/build",
+		"source" : "/home/fleuret/Desktop/workspace/\u667a\u80fd\u5bb6\u5c45(\u590d\u7528\u6a21\u578b)/smart-home---reuse-model"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
